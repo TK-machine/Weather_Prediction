@@ -22,4 +22,9 @@ weather_prediction/
 ├── train.py
 ├── visualize.py
 ├── requirements.txt
+├── temps.csv
+├── temps.xlsx
+├── .gitignore
+├── Figure_1.png
+├── Figure_2.png
 └── README.md
